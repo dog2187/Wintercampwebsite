@@ -5,7 +5,7 @@ const BLADE_SIZE = 500;
 
 const BLADE_LENGTH = 0.1;
 
-const BAD_FRUIT_PROBABILITY = 0.7;
+const BAD_FRUIT_PROBABILITY = 0.9;
 
 var sword;
 
