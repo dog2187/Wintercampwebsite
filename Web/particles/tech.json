@@ -1,0 +1,42 @@
+{
+  "particles": {
+    "number": {
+      "value": 125
+    },
+    "color": {
+      "value": "random"
+    },
+    "shape": {
+      "type": "image",
+       "image": {
+        "src": "./images/patrickdab.png"
+      }
+    },
+    "opacity": {
+      "value": 0.75,
+      "random": false
+    },
+    "size": {
+      "value": 100,
+      "random": true
+    },
+    "line_linked": {
+      "enable": false,
+      "distance": 100,
+      "color": "#fff6f6",
+      "opacity": 0.6,
+      "width": 3
+    },
+    "move": {
+      "enable": true,
+      "speed": 30,
+      "direction": "none",
+      "random": true,
+      "straight": false,
+      "out_mode": "bounce",
+      "attract": {
+        "enable": false
+      }
+    }
+  }
+}
