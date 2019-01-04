@@ -18,7 +18,7 @@ var score;
 // no more variables
 // ========================================================
 function setup() {
-    createCanvas(1500, 900);
+    createCanvas(1500, 700);
 
     sword = new Blade(color("#00fff2")); // change sword color
     frameRate(1000); //60 FPS
